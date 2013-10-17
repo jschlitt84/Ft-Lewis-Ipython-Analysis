@@ -1,0 +1,5 @@
+# Attack Rate List
+seeds120 11744
+seeds60 10473
+seeds30 8265
+seeds15 8812

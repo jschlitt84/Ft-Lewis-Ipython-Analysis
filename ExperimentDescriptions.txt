@@ -1,0 +1,9 @@
+FtLewisDraftRun4 - Old style Epifast, 120 infections seeded, 5 day intervention spread
+FtLewisDraftRun5 - Old style Epifast, 60 infections seeded, 5 day intervention spread
+FtLewisDraftRun6 - Old style Epifast, 30 infections seeded, 5 day intervention spread
+FtLewisDraftRun7 - Old style Epifast, 15 infections seeded, 1 day intervention spread
+FtLewisDraftRun8 - Old style Epifast, 15 infections seeded, 1 day v & 5 day ap spread
+FtLewisDraftRun9 - Old style Epifast, 15 infections seeded, 5 day intervention spread, ap standin for sq
+FtLewis2010SingleCell - New style Epifast, 120 infections seeded, 5 day intervention spread
+ -single cell for testing and evaluating new version compatibility
+DemoRun - Sandbox for experimentation, function demos

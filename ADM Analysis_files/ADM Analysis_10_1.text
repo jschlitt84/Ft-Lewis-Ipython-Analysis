@@ -1,0 +1,49 @@
+Experimental Variable v. Epistat Correlation coefficients:
+
+Pharmaceutical Effectiveness
+     attackRate   peakDay  peakNumber
+ve    -0.075978 -0.075682   -0.093934
+ate    0.200194  0.316148    0.227400
+
+Intervention Sequence
+     attackRate       peakDay    peakNumber
+vtd   -0.017642 -4.734763e-02  3.631568e-02
+atl    0.000000  2.543056e-18  8.127693e-18
+apl   -0.010265 -3.802723e-02 -1.430956e-02
+sql   -0.036417 -3.094373e-02 -2.554720e-02 
+
+
+Attack Rate Extrema by Intervention Parameters
+
+           Weakest Intervention Strongest Intervention
+ve                           70                     70
+vtd                          38                     38
+ate                          25                     87
+atl                          10                     10
+apl                          10                     10
+sq                           90                     90
+sqg                          25                     25
+sqtd                         10                     10
+sql                           7                     28
+other                 allonpost                 active
+attackRate                 7172                   5537
+peakDay                      26                     27
+peakNumber                  544                    270
+isEpidemic                   -1                     -1
+leftBound                    18                     17
+rightBound                   47                     50 
+
+
+Theoretical strongest and weakest pharmacuetical intervention (PI) & logistical implementation (LI):
+
+Active Duty Military on base: 27663
+Civilian Workers on post 15912
+
+		Active Duty	Civilian Workers
+Strong PI, Strong LI	24.000% 	0.019%
+Weak PI, Strong LI	24.571% 	0.013%
+Strong PI, Weak LI	24.079% 	0.031%
+Weak PI, Weak LI	24.632% 	0.031%
+
+
+
